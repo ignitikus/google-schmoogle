@@ -24,7 +24,7 @@ body{
 }
 
 img{
-    display: block;
+    display: inline-block;
     position: relative;
     /* margin-right: auto;
     margin-left: auto; */
@@ -86,3 +86,22 @@ div.search-buttons a:hover{
     left: 500px;
 }
 
+footer{
+    position: absolute;
+    bottom: 0;
+    height: 45px;
+    width: 1380px;
+    background-color: #F2F2F2;
+}
+
+.bottom-left a{
+    float:left;
+    left: -200px;
+    margin: 15px;
+}
+
+.bottom-right a{
+    float:right;
+    right: 500px;
+    margin: 15px;
+}
