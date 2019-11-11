@@ -33,11 +33,9 @@ body{
 img{
     display: inline-block;
     position: relative;
-    /* margin-right: auto;
-    margin-left: auto; */
+    margin-left: 450px;
     width: 20%;
     top: 190px;
-    left: 455px;
 }
 
 #button{
